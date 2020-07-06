@@ -1,0 +1,9 @@
+#folder logs
+logs/
+
+#txt files
+*.txt
+
+
+#log iles
+*.log
